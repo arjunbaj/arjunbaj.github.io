@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS373 WeekOn
+title: CS373 WeekOne
 published: true
 ---
 ## What did you do this past week?
