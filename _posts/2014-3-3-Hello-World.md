@@ -3,7 +3,6 @@ layout: post
 title: You're up and running!
 published: true
 ---
-
 ---
 layout: post
 title: CS373WeekOne
@@ -18,4 +17,4 @@ This upcoming week I'll be getting ahead on homework and also prepping for an in
 ## What's my experience of the class? ##
 So far my experience in the class has been pretty good and I've really enjoyed the way the class is structured. This is also my first 1 hour lecture class since freshman year and has been really good, especially for my ability to concentrate. Moreover, the lectures on python, a language I've been using for some time now, taught me a great deal on some of the subtelties of the language I had not known prior, something I did not expect coming into this class.
 ## Tip of the week ##
-I'm really a fan of nice aesthetics for things you spend a great deal of time staring at. With that in mind, I'm a big fan of the brogrammer theme(https://github.com/kenwheeler/brogrammer-theme) for sublime text. Apart for the name, its a really cool theme that really elevates sublime to a much more refined and "flat" theme. 
+I'm really a fan of nice aesthetics for things you spend a great deal of time staring at. With that in mind, I'm a big fan of the brogrammer theme(https://github.com/kenwheeler/brogrammer-theme) for sublime text. Apart for the name, its a really cool theme that really elevates sublime to a much more refined and "flat" theme.
