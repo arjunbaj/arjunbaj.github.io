@@ -1,8 +1,7 @@
 ---
-published: false
+published: true
 ---
-
-
+![arjunbaj.jpg]({{site.baseurl}}/_posts/arjunbaj.jpg)
 
 ## What did you do this past week?
 This past week was mainly getting reacquainted with the structure of classes and school days after a long and relaxing winter break. Additionally, I spent this week honing in on which CS classes I wanted to take after a more active use of the add drop system. As of now, I'm signed up for programming langues, software engineering and intro to security: classes I hope will be fun and challenging.
@@ -18,4 +17,3 @@ So far my experience in the class has been pretty good and I've really enjoyed t
 
 ## Tip of the week
 I'm really a fan of nice aesthetics for things you spend a great deal of time staring at. With that in mind, I'm a big fan of the brogrammer theme(https://github.com/kenwheeler/brogrammer-theme) for sublime text. Apart for the name, its a really cool theme that really elevates sublime to a much more refined and "flat" theme.
-
